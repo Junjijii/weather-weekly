@@ -10,7 +10,7 @@
 - lead: Claude Code
 - executor: Codex
 - phase: planning
-- handoff_ready: false
+- handoff_ready: true
 - next_owner: Codex
 - final_owner: Claude Code
 - updated_at: 2026-03-30T12:00:00Z
